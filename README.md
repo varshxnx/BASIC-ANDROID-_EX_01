@@ -1,5 +1,3 @@
-
-
 ## AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
@@ -26,8 +24,8 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : Thilagavathi S
-### REGISTER NO: 212222220053
+### DEVELOPED BY : Varshini S
+### REGISTER NO: 212222220056
 
 ### MainActivity.java:
 ```
@@ -120,8 +118,8 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 
-![365599059-c5ffb66a-8a46-43f6-80ae-6cee68eb1314](https://github.com/user-attachments/assets/95f00fc7-62f8-4038-870a-88a253896ef6)
-![365599188-8a8709a0-89f6-4117-bd6a-c963f240cbc9](https://github.com/user-attachments/assets/0ee6b90f-81de-47bf-8b04-1c323c91a709)
+![image](https://github.com/user-attachments/assets/76a331c9-b744-471f-aa2e-dae711a461f4)
+![image](https://github.com/user-attachments/assets/4ca80355-64c5-47ce-8516-e829dd0693c9)
 
 
 
